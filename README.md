@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=animeshagarwal28" alt="animeshagarwal28" /></a> </p>
 
-- 🔭 I’m currently working on [Team Up a project management self hosted WebApp](https://github.com/AnimeshAgarwal28/team-up-app)
+- 🔭 I’m currently contributing in [the Linux Kernel]([https://github.com/AnimeshAgarwal28/team-up-app](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?h=next-20240529&qt=grep&q=Animesh+Agarwal)
 
 - 🌱 I’m currently learning **Next.js**
 
